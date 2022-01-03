@@ -1,0 +1,11 @@
+specVersion: '2.6'
+metadata:
+  name: sapui5
+type: application
+framework:
+  name: OpenUI5
+  version: "1.97.0"
+  libraries:
+    - name: sap.ui.core
+    - name: sap.m
+    - name: themelib_sap_fiori_3
