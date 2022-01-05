@@ -1,12 +1,14 @@
 {
-  "name": "sapui5",
+  "name": "passo-a-passo_sapui5",
+   "private": true,
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "author": "SAP SE",
+  "description": "UI5 Demo App - Walkthrough Tutorial",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "ui5 serve",
+    "build": "ui5 build"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC"
+  "devDependencies": {
+    "@ui5/cli": "^2.0.0"
+  }
 }

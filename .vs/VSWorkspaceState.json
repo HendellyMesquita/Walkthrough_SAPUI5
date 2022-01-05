@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\webapp",
+    "\\webapp\\controller",
+    "\\webapp\\css",
+    "\\webapp\\i18n",
+    "\\webapp\\view"
+  ],
+  "SelectedNode": "\\webapp\\controller\\InvoiceList.controller.js",
+  "PreviewInSolutionExplorer": false
+}

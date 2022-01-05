@@ -11,7 +11,7 @@
       {
         "ProductName": "Milk",
         "Quantity": 4,
-        "ExtendedPrice": 9.99999,
+        "ExtendedPrice": 99.99999,
         "ShipperName": "ACME",
         "ShippedDate": "2015-02-18T00:00:00",
         "Status": "B"
@@ -30,6 +30,14 @@
         "ExtendedPrice": 8.8000,
         "ShipperName": "ACME",
         "ShippedDate": "2015-04-12T00:00:00",
+        "Status": "C"
+      },
+      {
+        "ProductName": "Cheese",
+        "Quantity": 13,
+        "ExtendedPrice": 35.000,
+        "ShipperName": "Fun Inc.",
+        "ShippedDate": "2015-02-22T00:00:00",
         "Status": "C"
       },
       {
